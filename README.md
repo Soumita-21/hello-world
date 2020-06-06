@@ -1,3 +1,5 @@
 # hello-world
 Introducing  GitHub world
-Programing with a purpose
+
+Programming with a purpose
+
